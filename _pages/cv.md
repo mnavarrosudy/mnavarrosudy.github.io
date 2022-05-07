@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[See it here :)](http://mnavarrosudy.github.io/files/CV_Matias_Navarro_2022.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
