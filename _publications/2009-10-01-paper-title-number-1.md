@@ -9,3 +9,4 @@ link: 'https://doi.org/10.1016/j.ecotra.2021.100232'
 #code: 'ISA dataverse here'
 #github: 'our github repo here, maybe?
 citation: 'Basso, L. J., Navarro, M., & Silva, H. E. (2021). Public transport and urban structure. <i>Economics of Transportation, 28</i>, 100232.'
+---
