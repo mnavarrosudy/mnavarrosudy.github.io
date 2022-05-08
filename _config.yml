@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MN \textcolor{blue}{.}"
+title                    : "MN."
 title_separator          : "-"
 name                     : &name "Matías Navarro"
 description              : &description "PhD student at Cornell University"
