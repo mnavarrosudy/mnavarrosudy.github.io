@@ -1,18 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Public transport and urban structure"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://mnavarrosudy.github.io/files/paper1.pdf'
+permalink: /publication/transit-urban-structure
+date: 2021-12-01
+venue: 'Economics of Transportation'
+paperurl: '/files/research/transit-urban-structure.pdf'
 link: 'https://doi.org/10.1016/j.ecotra.2021.100232'
-code: 'https://doi.org/10.7910/DVN/VUY8UI'
-github: 'https://github.com/mnavarrosudy'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://mnavarrosudy.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+#code: 'ISA dataverse here'
+#github: 'our github repo here, maybe?
+citation: 'Basso, L. J., Navarro, M., & Silva, H. E. (2021). Public transport and urban structure. <i>Economics of Transportation, 28</i>, 100232.'
