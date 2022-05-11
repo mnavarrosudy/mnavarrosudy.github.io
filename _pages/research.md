@@ -19,7 +19,8 @@ Publications
 
 ### Peer-Reviewed Publications
 
-"[Public transport and urban structure](https://www.aeaweb.org/articles?id=10.1257/app.20200407)" (with [Leonardo J. Basso][ljb], and [Hugo E. Silva][hes]). *Economics of Transportation* 28 (2021): 100232.
+"[Public transport and urban structure](https://doi.org/10.1016/j.ecotra.2021.100232)" (with [Leonardo J. Basso][ljb], and [Hugo E. Silva][hes]). *Economics of Transportation* 28 (2021): 100232.
+[<i class="far fa-file-pdf" aria-hidden="true"></i>](/files/research/transit-urban-structure.pdf)
 
 ### Policy work
 
