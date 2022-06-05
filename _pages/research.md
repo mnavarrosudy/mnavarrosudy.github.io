@@ -10,7 +10,7 @@ Active Research
 
 ### Work in Progress
 
-"Road network congestion externality and optimal road pricing" (with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl]). *Slides, preliminary draft available by request*.
+"Optimal congestion pricing in road networks" (with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl]). *Slides, preliminary draft available by request*.
 
 
 <h2 id="pubs">
