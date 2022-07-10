@@ -21,9 +21,13 @@ Publications
 
 "[Public transport and urban structure](https://doi.org/10.1016/j.ecotra.2021.100232)" (with [Leonardo J. Basso][ljb], and [Hugo E. Silva][hes]). *Economics of Transportation* 28 (2021): 100232. <a href="/files/research/transit-urban-structure.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
-### Pre Doctoral Research
+### Pre Doctoral Work
 
-"[Using Travel Time Data to Generate Aggregated Measures of Traffic](https://doi.org/10.3141%2F2422-11)" (with [Juan C. Herrera][jch]). *Transportation Research Record* 2422, no. 1 (2014): 96-103.
+"[Impact of a Loan-Based Public Transport Fare System on Fare Evasion: Experience of Transantiago, Santiago, Chile](https://doi.org/10.3141%2F2544-03)" (with [Alejandro Schmidt][as], [Christopher Bucknell][cb], [Juan Carlos Munoz][jcm], and [Carolina Simonetti][cs]). *Transportation Research Record* 2544, no. 1 (2016): 20-27.
+
+"[Increasing the Speed: Case Study from Santiago, Chile](https://doi.org/10.3141%2F2539-08)" (with [Alejandro Schmidt][as], [Christopher Bucknell][cb], [Juan Carlos Munoz][jcm], and [Carolina Simonetti][cs]). *Transportation Research Record* 2539, no. 1 (2016): 65-71.
+
+"[Using travel time data to generate aggregated measures of traffic](https://doi.org/10.3141%2F2422-11)" (with [Juan C. Herrera][jch]). *Transportation Research Record* 2422, no. 1 (2014): 96-103.
 
 
 [aop]: https://www.avraltodpurevjav.com
@@ -31,3 +35,4 @@ Publications
 [hes]: https://sites.google.com/site/hugosilvam/
 [sl]: http://li.dyson.cornell.edu
 [jch]: https://www.ing.uc.cl/academicos-e-investigadores/juan-carlos-herrera-maldonado/
+[jcm]: https://www.ing.uc.cl/en/academicos-e-investigadores/juan-carlos-munoz-abogabir/
