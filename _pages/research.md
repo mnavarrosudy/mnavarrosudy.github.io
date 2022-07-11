@@ -12,7 +12,7 @@ Active Research
 
 "Optimal congestion pricing in road networks" (with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl]). *Slides and preliminary draft available by request*.
 
-"Estimating the Benefits of Urban Public Transit Network Design" (with [Andrew Waxman][arw]).
+"Estimating the benefits of urban public transit network design" (with [Andrew Waxman][arw]).
 
 <h2 id="pubs">
 Publications
