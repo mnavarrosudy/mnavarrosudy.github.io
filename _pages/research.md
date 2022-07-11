@@ -10,8 +10,9 @@ Active Research
 
 ### Work in Progress
 
-"Optimal congestion pricing in road networks" (with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl]). *Slides, preliminary draft available by request*.
+"Optimal congestion pricing in road networks" (with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl]). *Slides and preliminary draft available by request*.
 
+"Estimating the Benefits of Urban Public Transit Network Design" (with [Andrew Waxman][arw]).
 
 <h2 id="pubs">
 Publications
@@ -36,3 +37,4 @@ Publications
 [sl]: http://li.dyson.cornell.edu
 [jch]: https://www.ing.uc.cl/academicos-e-investigadores/juan-carlos-herrera-maldonado/
 [jcm]: https://www.ing.uc.cl/en/academicos-e-investigadores/juan-carlos-munoz-abogabir/
+[arw]: https://www.andrewrwaxman.com
