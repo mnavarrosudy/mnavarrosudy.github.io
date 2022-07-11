@@ -22,7 +22,7 @@ Publications
 
 "[Public transport and urban structure](https://doi.org/10.1016/j.ecotra.2021.100232)" (with [Leonardo J. Basso][ljb], and [Hugo E. Silva][hes]). *Economics of Transportation* 28 (2021): 100232. <a href="/files/research/transit-urban-structure.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
-### Pre Doctoral Work
+### Pre-Doctoral Work
 
 "[Impact of a loan-based public transport fare system on fare evasion: Experience of Transantiago, Santiago, Chile](https://doi.org/10.3141%2F2544-03)" (with Alejandro Schmidt, Christopher Bucknell, [Juan Carlos Munoz][jcm], and Carolina Simonetti). *Transportation Research Record* 2544, no. 1 (2016): 20-27.
 
