@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+sitemap:
+  priority: 1
 ---
 
 <h2 id="welcome">
