@@ -40,7 +40,7 @@ Publications
 
 ### Pre-Doctoral Work
 
-<details>
+<details> <summary> Details </summary>
 
 * "[Impact of a loan-based public transport fare system on fare evasion: Experience of Transantiago, Santiago, Chile](https://doi.org/10.3141%2F2544-03)" (with Alejandro Schmidt, Christopher Bucknell, [Juan Carlos Muñoz][jcm], and Carolina Simonetti). *Transportation Research Record* 2544, no. 1 (2016): 20-27.
 
