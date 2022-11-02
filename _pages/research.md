@@ -40,15 +40,11 @@ Publications
 
 ### Pre-Doctoral Work
 
-<details> <summary> Details </summary>
-
 * "[Impact of a loan-based public transport fare system on fare evasion: Experience of Transantiago, Santiago, Chile](https://doi.org/10.3141%2F2544-03)" (with Alejandro Schmidt, Christopher Bucknell, [Juan Carlos Muñoz][jcm], and Carolina Simonetti). *Transportation Research Record* 2544, no. 1 (2016): 20-27.
 
 * "[Increasing the speed: Case study from Santiago, Chile](https://doi.org/10.3141%2F2539-08)" (with Alejandro Schmidt, Christopher Bucknell, [Juan Carlos Muñoz][jcm], and Carolina Simonetti). *Transportation Research Record* 2539, no. 1 (2016): 65-71.
 
 * "[Using travel time data to generate aggregated measures of traffic](https://doi.org/10.3141%2F2422-11)" (with [Juan C. Herrera][jch]). *Transportation Research Record* 2422, no. 1 (2014): 96-103.
-
-</details> 
 
 [aop]: https://www.avraltodpurevjav.com
 [ljb]: http://www.leonardojbasso.cl/index.html
