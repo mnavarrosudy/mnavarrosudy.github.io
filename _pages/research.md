@@ -11,6 +11,7 @@ Active Research
 ### Work in Progress
 
 "Optimal congestion pricing in road networks" (with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl]). *Slides and preliminary draft available by request*. 
+<nobr>
 <font size="-1"> 
   <details> 
     <summary> 
@@ -20,7 +21,7 @@ Active Research
       </p> 
   </details> 
 </font>
-
+<br>
 
 "Estimating the benefits of urban public transit network design" (with [Andrew Waxman][arw]).
 
