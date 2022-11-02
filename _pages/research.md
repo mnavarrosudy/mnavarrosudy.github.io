@@ -32,7 +32,6 @@ Publications
   <font size="-1">
   <details>
   <summary> Abstract </summary>
-  <br>
   <p align="justify"> Public transport is central to commuting in most cities. This paper studies the role of public transportation in shaping the urban structure. Its main contribution is to propose a tractable model as a tool to study urban regulations and transport policies in the long-run. Using the classic monocentric city framework, we model public transport as a mode that can only be accessed by walking to a set of stops. By incorporating a discrete transport mode choice and income heterogeneity, the model remains simple yet can reproduce non-monotonous urban gradients observed in cities with public transport, and well-observed spatial patterns of sorting by income and use of public transport. For example, it can reproduce an inverted U-shape of transit usage along the city. To highlight the relevance of the model, we study the effects of pricing pollution externalities together with extending the public transportation network on the urban structure.
   </p>
   </details>
