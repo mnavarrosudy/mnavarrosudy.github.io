@@ -11,12 +11,12 @@ Active Research
 ### Work in Progress
 
 "Optimal congestion pricing in road networks" (with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl]). *Slides and preliminary draft available by request*.
-<font size="-1"> 
-<details> 
-<summary> Abstract </summary>
-In large urban areas, traffic congestion usually spills over throughout the network, causing delays on other road segments. We provide the first estimate of the network effects of traffic congestion, incorporating it into an optimal road pricing policy for Beijing. Using fine-scale traffic data and the Adaptive Elastic Net GMM, we identify bottlenecks and estimate their effect on the network.
-</details> 
-</font>
+  <font size="-1"> 
+  <details> 
+  <summary> Abstract </summary>
+  In large urban areas, traffic congestion usually spills over throughout the network, causing delays on other   road segments. We provide the first estimate of the network effects of traffic congestion, incorporating it into an optimal road pricing policy for Beijing. Using fine-scale traffic data and the Adaptive Elastic Net GMM, we identify bottlenecks and estimate their effect on the network.
+  </details> 
+  </font>
 
 "Estimating the benefits of urban public transit network design" (with [Andrew Waxman][arw]).
 
