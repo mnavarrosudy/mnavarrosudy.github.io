@@ -20,7 +20,9 @@ Active Research
      </details>
      </font>
 
- * "Estimating the benefits of urban public transit network design" (with [Andrew Waxman][arw]).
+ * "Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" (with [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]).
+
+ * "Bridges in Bangladesh" (with [Alejandro Molnar][am] and [Forhad Shilpi][fs]).
 
 <h2 id="pubs">
 Publications
@@ -46,7 +48,10 @@ Publications
 
 * "[Using travel time data to generate aggregated measures of traffic](https://doi.org/10.3141%2F2422-11)" (with [Juan C. Herrera][jch]). *Transportation Research Record* 2422, no. 1 (2014): 96-103.
 
+[am]: https://alejandromolnar.github.io
 [aop]: https://www.avraltodpurevjav.com
+[fs]: https://sites.google.com/site/decrgforhadshilpi/
+[gcs]: https://soa.utexas.edu/faculty/gian-claudia-sciara
 [ljb]: http://www.leonardojbasso.cl/index.html
 [hes]: https://sites.google.com/site/hugosilvam/
 [sl]: http://li.dyson.cornell.edu
