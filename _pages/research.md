@@ -11,14 +11,14 @@ Active Research
 ### Work in Progress
 
 "Optimal congestion pricing in road networks" with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl].
-     <font size="-1">
-     <details>
-     <summary> Abstract </summary>
-     <br>
-     <p align="justify"> In large urban areas, traffic congestion usually spills over throughout the network, causing delays on other road segments. We provide the first estimate of the network effects of traffic congestion, incorporating it into an optimal road pricing policy for Beijing. Using fine-scale traffic data and the Adaptive Elastic Net GMM, we identify bottlenecks and estimate their effect on the network.
-     </p>
-     </details>
-     </font>
+[comment]: <>     <font size="-1">
+[comment]: <>     <details>
+[comment]: <>     <summary> Abstract </summary>
+[comment]: <>     <br>
+[comment]: <>     <p align="justify"> In large urban areas....
+[comment]: <>     </p>
+[comment]: <>     </details>
+[comment]: <>     </font>
 
 "Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" with [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw].
 
@@ -30,7 +30,7 @@ Publications
 
 ### Peer-Reviewed Publications
 
-"[Public transport and urban structure](https://doi.org/10.1016/j.ecotra.2021.100232)" (with [Leonardo J. Basso][ljb], and [Hugo E. Silva][hes]). *Economics of Transportation* 28 (2021): 100232. <a href="/files/research/transit-urban-structure.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+"[Public transport and urban structure](https://doi.org/10.1016/j.ecotra.2021.100232)" with [Leonardo J. Basso][ljb], and [Hugo E. Silva][hes]. *Economics of Transportation* 28 (2021): 100232. <a href="/files/research/transit-urban-structure.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
      <font size="-1">
      <details>
      <summary> Abstract </summary>
@@ -42,11 +42,11 @@ Publications
 
 ### Pre-Doctoral Work
 
-"[Impact of a loan-based public transport fare system on fare evasion: Experience of Transantiago, Santiago, Chile](https://doi.org/10.3141%2F2544-03)" (with Alejandro Schmidt, Christopher Bucknell, [Juan Carlos Muñoz][jcm], and Carolina Simonetti). *Transportation Research Record* 2544, no. 1 (2016): 20-27.
+"[Impact of a loan-based public transport fare system on fare evasion: Experience of Transantiago, Santiago, Chile](https://doi.org/10.3141%2F2544-03)" with Alejandro Schmidt, Christopher Bucknell, [Juan Carlos Muñoz][jcm], and Carolina Simonetti. *Transportation Research Record* 2544, no. 1 (2016): 20-27.
 
-"[Increasing the speed: Case study from Santiago, Chile](https://doi.org/10.3141%2F2539-08)" (with Alejandro Schmidt, Christopher Bucknell, [Juan Carlos Muñoz][jcm], and Carolina Simonetti). *Transportation Research Record* 2539, no. 1 (2016): 65-71.
+"[Increasing the speed: Case study from Santiago, Chile](https://doi.org/10.3141%2F2539-08)" with Alejandro Schmidt, Christopher Bucknell, [Juan Carlos Muñoz][jcm], and Carolina Simonetti. *Transportation Research Record* 2539, no. 1 (2016): 65-71.
 
-"[Using travel time data to generate aggregated measures of traffic](https://doi.org/10.3141%2F2422-11)" (with [Juan C. Herrera][jch]). *Transportation Research Record* 2422, no. 1 (2014): 96-103.
+"[Using travel time data to generate aggregated measures of traffic](https://doi.org/10.3141%2F2422-11)" with [Juan C. Herrera][jch]. *Transportation Research Record* 2422, no. 1 (2014): 96-103.
 
 [am]: https://alejandromolnar.github.io
 [aop]: https://www.avraltodpurevjav.com
