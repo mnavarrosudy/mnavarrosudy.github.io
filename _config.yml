@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matías Navarro."
+title                    : "Matías Navarro"
 title_separator          : "-"
 name                     : &name "Matías Navarro"
 description              : &description "PhD student at Cornell University"
