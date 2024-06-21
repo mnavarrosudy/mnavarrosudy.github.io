@@ -8,11 +8,13 @@ author_profile: true
 Active Research
 </h2>
 
+### Working Papers
+
+"Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" with [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. <a href="/files/research/gas-tax.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+
 ### Work in Progress
 
 "Optimal congestion pricing in road networks" with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl].
-
-"Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" with [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw].
 
 "Bridges in Bangladesh" with [Alejandro Molnar][am] and [Forhad Shilpi][fs].
 
