@@ -75,6 +75,7 @@ Publications
     margin: 0.5em 0 1em 1em;
     border-left: 2px solid #eee;
     padding-left: 0.8em;
+    text-align: justify;
   }
 </style>
 
