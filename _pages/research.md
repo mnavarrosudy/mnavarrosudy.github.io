@@ -10,13 +10,26 @@ Active Research
 
 ### Working Papers
 
-"Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" with [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. <a href="https://papers.ssrn.com/abstract=4999378"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<!--"Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" with [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. <a href="https://papers.ssrn.com/abstract=4999378"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
 <button onclick="toggleAbstract('abstract1')">Show Abstract</button>
 <div id="abstract1" style="display: none;">
   <p>Your abstract goes here...</p>
-</div>
+</div> -->
 
+"Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" with 
+[Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. 
+
+<a href="https://papers.ssrn.com/abstract=4999378" title="Download PDF">
+  <i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i>
+</a>
+<button onclick="toggleAbstract('abstract1')" class="abstract-toggle">Show Abstract</button>
+
+<div id="abstract1" class="abstract">
+  <p>
+    This paper studies the electoral consequences of increasing fuel taxes in the United States...
+  </p>
+</div>
 
 ### Work in Progress
 
@@ -65,3 +78,21 @@ Publications
   }
 </script>
 
+<style>
+  .abstract {
+    display: none;
+    font-size: 0.9em;
+    margin: 0.5em 0 1em 1em;
+    border-left: 2px solid #eee;
+    padding-left: 0.8em;
+  }
+
+  .abstract-toggle {
+    margin-left: 0.5em;
+    font-size: 0.85em;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    padding: 0.2em 0.4em;
+    cursor: pointer;
+  }
+</style>
