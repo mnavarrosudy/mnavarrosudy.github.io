@@ -12,6 +12,12 @@ Active Research
 
 "Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" with [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. <a href="https://papers.ssrn.com/abstract=4999378"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
+<button onclick="toggleAbstract('abstract1')">Show Abstract</button>
+<div id="abstract1" style="display: none;">
+  <p>Your abstract goes here...</p>
+</div>
+
+
 ### Work in Progress
 
 "Optimal congestion pricing in road networks" with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl].
@@ -44,3 +50,18 @@ Publications
 [jch]: https://www.ing.uc.cl/academicos-e-investigadores/juan-carlos-herrera-maldonado/
 [jcm]: https://www.ing.uc.cl/en/academicos-e-investigadores/juan-carlos-munoz-abogabir/
 [arw]: https://www.andrewrwaxman.com
+
+<script>
+  function toggleAbstract(id) {
+    const abstract = document.getElementById(id);
+    const btn = event.target;
+    if (abstract.style.display === "none") {
+      abstract.style.display = "block";
+      btn.textContent = "Hide Abstract";
+    } else {
+      abstract.style.display = "none";
+      btn.textContent = "Show Abstract";
+    }
+  }
+</script>
+
