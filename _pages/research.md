@@ -19,17 +19,19 @@ Active Research
 
 "Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" with 
 [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. 
+<span class="inline-controls">
+  <a href="https://papers.ssrn.com/abstract=4999378" title="Download PDF">
+    <i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i>
+  </a>
+  <button onclick="toggleAbstract('abstract1', event)" class="abstract-button">[Show abstract]</button>
+</span>
 
-<a href="https://papers.ssrn.com/abstract=4999378" title="Download PDF">
-  <i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i>
-</a>
-<button onclick="toggleAbstract('abstract1')" class="abstract-toggle">Show Abstract</button>
-
-<div id="abstract1" class="abstract">
+<div id="abstract1" style="display: none; font-size: 0.9em; margin: 0.5em 0 1em 1em; border-left: 2px solid #eee; padding-left: 0.8em;">
   <p>
     This paper studies the electoral consequences of increasing fuel taxes in the United States...
   </p>
 </div>
+
 
 ### Work in Progress
 
@@ -64,21 +66,18 @@ Publications
 [jcm]: https://www.ing.uc.cl/en/academicos-e-investigadores/juan-carlos-munoz-abogabir/
 [arw]: https://www.andrewrwaxman.com
 
-<script>
-  function toggleAbstract(id) {
-    const abstract = document.getElementById(id);
-    const btn = event.target;
-    if (abstract.style.display === "none") {
-      abstract.style.display = "block";
-      btn.textContent = "Hide Abstract";
-    } else {
-      abstract.style.display = "none";
-      btn.textContent = "Show Abstract";
-    }
-  }
-</script>
-
 <style>
+  .inline-controls {
+    white-space: nowrap;
+  }
+  .abstract-button {
+    border: none;
+    background: none;
+    font-size: 0.8em;
+    color: #007bff;
+    cursor: pointer;
+    padding: 0;
+  }
   .abstract {
     display: none;
     font-size: 0.9em;
@@ -86,13 +85,18 @@ Publications
     border-left: 2px solid #eee;
     padding-left: 0.8em;
   }
-
-  .abstract-toggle {
-    margin-left: 0.5em;
-    font-size: 0.85em;
-    background-color: transparent;
-    border: 1px solid #ccc;
-    padding: 0.2em 0.4em;
-    cursor: pointer;
-  }
 </style>
+
+<script>
+  function toggleAbstract(id, event) {
+    const abstract = document.getElementById(id);
+    const btn = event.target;
+    if (abstract.style.display === "none") {
+      abstract.style.display = "block";
+      btn.textContent = "[Hide abstract]";
+    } else {
+      abstract.style.display = "none";
+      btn.textContent = "[Show abstract]";
+    }
+  }
+</script>
