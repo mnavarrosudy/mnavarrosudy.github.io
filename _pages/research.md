@@ -20,15 +20,13 @@ Active Research
 "Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" with 
 [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. 
 <span class="inline-controls">
-  <a href="https://papers.ssrn.com/abstract=4999378" title="Download PDF">
-    <i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i>
-  </a>
+  <a href="https://papers.ssrn.com/abstract=4999378"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   <button onclick="toggleAbstract('abstract1', event)" class="abstract-button">[Show abstract]</button>
 </span>
 
 <div id="abstract1" style="display: none; font-size: 0.9em; margin: 0.5em 0 1em 1em; border-left: 2px solid #eee; padding-left: 0.8em;">
   <p>
-    This paper studies the electoral consequences of increasing fuel taxes in the United States...
+    Perhaps the greatest challenge to addressing climate change comprehensively through government policy in the U.S. has been limited political feasibility. We investigate whether politicians are punished by voters for increasing motor fuel taxes by compiling a comprehensive dataset on state legislative election outcomes and gasoline taxes. Leveraging a difference-in-discontinuities research design, we estimate the effect of legislated gasoline tax changes on incumbent state legislators' subsequent electoral outcomes. For very close elections, we show how the incumbency advantage attenuates when         gasoline tax increases have been legislated in the intervening legislative session. Specifically, we find a small, but economically and statistically meaningful decrease in the incumbency advantage of 1.3 to 1.9 percentage points for Republican and Democratic incumbents, respectively. This penalty represents 14-21% of the overall electoral advantage of incumbents in our sample, which highlights the relative importance of environmental and energy taxes in voter priorities.
   </p>
 </div>
 
