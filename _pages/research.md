@@ -69,7 +69,7 @@ Publications
     padding: 0;
   }
   .abstract {
-    display: none !important;  /* The !important ensures this overrides any other display settings */
+    display: none;
     font-size: 0.9em;
     margin: 0.5em 0 1em 1em;
     border-left: 2px solid #eee;
