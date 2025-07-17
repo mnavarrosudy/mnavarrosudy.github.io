@@ -146,14 +146,6 @@
   @include breakpoint($large) {
     display: block;
   }
-  
-  // Add this new section for mobile:
-  @media (max-width: 1023px) {  // or whatever your $large breakpoint is
-    display: block;
-    margin-top: 10px;
-    width: 100%;
-  }
-  
   button {
     margin-bottom: 0;
     @include breakpoint($large) {
