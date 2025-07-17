@@ -1,15 +1,14 @@
-/* Make avatar image larger and centered */
+/* Fix avatar image size on small screens without making it circular */
 .author__avatar img {
-  max-width: 160px;
-  width: 100%;
+  width: auto;
   height: auto;
-  display: block;
-  margin: 0 auto;
-  border-radius: 50%;
+  max-width: 150px;
+  max-height: none;
 }
 
 @media (max-width: 600px) {
   .author__avatar img {
-    max-width: 200px;
+    max-width: 100%;
+    height: auto;
   }
 }
