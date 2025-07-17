@@ -133,26 +133,29 @@
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
-  vertical-align: top; //middle;
+  vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
   position: relative;
   cursor: pointer;
-  padding-top: 10px;
-
   li:last-child {
     a {
       margin-bottom: 0;
     }
   }
-
   @include breakpoint($large) {
     display: block;
   }
-
+  
+  // Add this new section for mobile:
+  @media (max-width: 1023px) {  // or whatever your $large breakpoint is
+    display: block;
+    margin-top: 10px;
+    width: 100%;
+  }
+  
   button {
     margin-bottom: 0;
-
     @include breakpoint($large) {
       display: none;
     }
