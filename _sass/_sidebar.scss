@@ -133,11 +133,12 @@
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
-  vertical-align: middle;
+  vertical-align: top; //middle;
   font-family: $sans-serif;
   z-index: 10;
   position: relative;
   cursor: pointer;
+  padding-top: 10px;
 
   li:last-child {
     a {
