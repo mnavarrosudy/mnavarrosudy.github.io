@@ -1,0 +1,15 @@
+/* Make avatar image larger and centered */
+.author__avatar img {
+  max-width: 160px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+@media (max-width: 600px) {
+  .author__avatar img {
+    max-width: 200px;
+  }
+}
