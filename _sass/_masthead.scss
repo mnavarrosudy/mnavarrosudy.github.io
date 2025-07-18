@@ -31,36 +31,12 @@
   }
 }
 
-//.masthead__menu {
-
-//  ul {
-//    margin: 0;
-//    padding: 0;
-//    clear: both;
-//    list-style-type: none;
-//  }
-//}
-
 .masthead__menu {
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
-    
-    // Mobile: align navigation items to the right
-    @media (max-width: 1023px) {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-  }
-  
-  // Mobile: make sure nav items align right
-  @media (max-width: 1023px) {
-    li:not(.masthead__menu-item--lg) {
-      margin-left: auto;
-    }
   }
 }
 
