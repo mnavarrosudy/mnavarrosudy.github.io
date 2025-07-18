@@ -77,7 +77,7 @@ Publications
     border: none;
     background: none;
     font-size: 0.9em;
-    color: #08306b;
+    color: #a51417;
     cursor: pointer;
     padding: 0;
   }
@@ -86,7 +86,7 @@ Publications
     border: none;
     background: none;
     font-size: 0.9em;
-    color: #08306b;
+    color: #a51417;
     cursor: pointer;
     padding: 0;
   }
