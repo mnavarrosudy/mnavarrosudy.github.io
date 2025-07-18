@@ -37,16 +37,50 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
 }
 
 .masthead__menu-item {
-  display: block;
+  display: inline-block;  // Change from block
   list-style-type: none;
   white-space: nowrap;
-
+  
   &--lg {
-    padding-right: 5em;
+    // Remove padding-right: 5em;
     font-weight: 700;
   }
+  
+  // Group non-home buttons together on the right
+  &:not(.masthead__menu-item--lg) {
+    margin-left: auto;
+    
+    // Add small spacing between right-side buttons
+    &:not(:last-child) {
+      margin-right: 1em;
+    }
+  }
 }
+
+
+//.masthead__menu {
+//  ul {
+//    margin: 0;
+//    padding: 0;
+//    clear: both;
+//    list-style-type: none;
+//  }
+//}
+
+//.masthead__menu-item {
+//  display: block;
+//  list-style-type: none;
+//  white-space: nowrap;
+
+//  &--lg {
+//    padding-right: 5em;
+//    font-weight: 700;
+//  }
+//}
