@@ -15,7 +15,7 @@ author_profile: true
 - Introduction to Economics (undergraduate), Spring 2018
 - Introduction to Microeconomics (undergraduate), Fall 2017
 
-### Pontificia Universidad Católica de Chile
+### Teaching Assistant at Pontificia Universidad Católica de Chile
 
 - Highway Traffic Flow (graduate), Fall 2013
 - Advanced Traffic Modeling (graduate), Spring 2013
