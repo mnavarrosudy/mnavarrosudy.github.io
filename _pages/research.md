@@ -105,12 +105,12 @@ Publications
   function toggleAbstract(id, event) {
     const abstract = document.getElementById(id);
     const btn = event.target;
-    if (abstract.style.display === "none") {
-      abstract.style.display = "block";
-      btn.textContent = "[Hide abstract]";
-    } else {
+    if (abstract.style.display === "block") {
       abstract.style.display = "none";
       btn.textContent = "[Abstract]";
+    } else {
+      abstract.style.display = "block";
+      btn.textContent = "[Hide abstract]";
     }
   }
 </script>
