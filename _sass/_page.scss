@@ -43,6 +43,12 @@
   }
 }
 
+.page__title:empty {
+  display: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
