@@ -43,24 +43,6 @@
   }
 }
 
-.page__title:empty {
-  display: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  height: 0 !important;
-  line-height: 0 !important;
-}
-
-/* Also remove margin/padding from header when it only has empty title */
-.page__inner-wrap header {
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-.page__inner-wrap header:empty {
-  display: none !important;
-}
-
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
