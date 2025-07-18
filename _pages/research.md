@@ -10,7 +10,8 @@ author_profile: true
 [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. 
 <span class="inline-controls">
   <button onclick="toggleAbstract('abstract1', event)" class="abstract-button">[Abstract]</button>
-  <a href="https://papers.ssrn.com/abstract=4999378"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+  <a href="https://papers.ssrn.com/abstract=4999378" class="pdf-button">[PDF]</a>
+  <!--<a href="https://papers.ssrn.com/abstract=4999378"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>-->
 </span>
 
 <div id="abstract1" class="abstract">
@@ -38,7 +39,8 @@ Publications
 "[Public transport and urban structure](https://doi.org/10.1016/j.ecotra.2021.100232)" with [Leonardo J. Basso][ljb], and [Hugo E. Silva][hes]. *Economics of Transportation* 28 (2021): 100232. 
 <span class="inline-controls">
   <button onclick="toggleAbstract('abstract2', event)" class="abstract-button">[Abstract]</button>
-  <a href="/files/research/transit-urban-structure.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+  <a href="/files/research/transit-urban-structure.pdf" class="pdf-button">[PDF]</a>
+  <!--<a href="/files/research/transit-urban-structure.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>-->
 </span>
 
 <div id="abstract2" class="abstract">
@@ -70,6 +72,7 @@ Publications
   .inline-controls {
     white-space: nowrap;
   }
+  
   .abstract-button {
     border: none;
     background: none;
@@ -78,6 +81,15 @@ Publications
     cursor: pointer;
     padding: 0;
   }
+  
+  .pdf-button {
+  border: none;
+  background: none;
+  font-size: 0.9em;
+  color: #08306b;
+  cursor: pointer;
+  }
+  
   .abstract {
     display: none;
     font-size: 0.8em;
