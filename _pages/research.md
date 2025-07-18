@@ -90,9 +90,9 @@ Publications
     cursor: pointer;
     padding: 0;
   }
-  
-  .page__content p a {
-    color: inherit;
+
+  .page__content p a:not(.pdf-button) {
+  color: inherit;
   }
   
   .abstract {
