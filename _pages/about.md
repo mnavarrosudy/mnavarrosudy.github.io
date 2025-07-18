@@ -16,4 +16,4 @@ Welcome!
 
 I am a PhD student in Applied Economics and Management at Cornell University. My research focuses on questions in environmental and urban economics using tools from empirical industrial organization and public economics.
 
-My CV is available [here](/files/cv_navarro.pdf). You can reach me at [min26@cornell.edu](mailto:min26@cornell.edu).
+My CV is available [here](/files/cv_navarro.pdf). You can reach me at [min26@cornell.edu](mailto:min26@cornell.edu)
