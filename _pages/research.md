@@ -10,7 +10,7 @@ author_profile: true
 [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. 
 <span class="inline-controls">
   <a href="https://papers.ssrn.com/abstract=4999378"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-  <button onclick="toggleAbstract('abstract1', event)" class="abstract-button">[Show abstract]</button>
+  <button onclick="toggleAbstract('abstract1', event)" class="abstract-button">[Abstract]</button>
 </span>
 
 <div id="abstract1" class="abstract">
@@ -63,14 +63,14 @@ Publications
   .abstract-button {
     border: none;
     background: none;
-    font-size: 0.8em;
-    color: #007bff;
+    font-size: 0.9em;
+    color: #08306b;
     cursor: pointer;
     padding: 0;
   }
   .abstract {
     display: none;
-    font-size: 0.9em;
+    font-size: 0.8em;
     margin: 0.5em 0 1em 1em;
     border-left: 2px solid #eee;
     padding-left: 0.8em;
@@ -87,7 +87,7 @@ Publications
       btn.textContent = "[Hide abstract]";
     } else {
       abstract.style.display = "none";
-      btn.textContent = "[Show abstract]";
+      btn.textContent = "[Abstract]";
     }
   }
 </script>
