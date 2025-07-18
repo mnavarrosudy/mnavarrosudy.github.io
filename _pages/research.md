@@ -8,9 +8,9 @@ author_profile: true
 
 "Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" with 
 [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. 
-<div class="inline-controls" style="margin-top: 0; margin-bottom: 0;">
-  <a href="https://papers.ssrn.com/abstract=4999378"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<div class="inline-controls" style="margin-top: -5px; margin-bottom: 0;">
   <button onclick="toggleAbstract('abstract1', event)" class="abstract-button">[Abstract]</button>
+  <a href="https://papers.ssrn.com/abstract=4999378"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 </div>
 
 <div id="abstract1" class="abstract">
