@@ -138,6 +138,11 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
+  
+  // Hide Follow button on mobile
+  @media (max-width: 1023px) {
+    display: none;
+  }
   li:last-child {
     a {
       margin-bottom: 0;
