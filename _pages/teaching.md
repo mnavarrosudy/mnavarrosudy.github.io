@@ -6,6 +6,8 @@ author_profile: true
 
 ### Cornell University
 
-Environmental and Resource Economics
+[AEM 2500] Environmental and Resource Economics
 
-Introductory Microeconomics
+[ECON 1110] Introductory Microeconomics
+
+### University of Texas at Austin
