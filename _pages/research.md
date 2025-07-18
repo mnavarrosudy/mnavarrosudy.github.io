@@ -91,6 +91,10 @@ Publications
     padding: 0;
   }
   
+  .page__content p a {
+    color: inherit;
+  }
+  
   .abstract {
     display: none;
     font-size: 0.8em;
