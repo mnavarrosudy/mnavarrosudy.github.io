@@ -7,11 +7,11 @@ author_profile: true
 ### Working Papers
 
 "Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" with 
-[Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. 
-<span class="inline-controls">
+[Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw].
+<div class="inline-controls">
   <a href="https://papers.ssrn.com/abstract=4999378"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   <button onclick="toggleAbstract('abstract1', event)" class="abstract-button">[Abstract]</button>
-</span>
+</div>
 
 <div id="abstract1" class="abstract">
   <p>
