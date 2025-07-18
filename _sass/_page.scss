@@ -34,6 +34,12 @@
   }
 }
 
+.page__inner-wrap header:not(:has(.page__title)) {
+  margin: 0 !important;
+  padding: 0 !important;
+  min-height: 0 !important;
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;
