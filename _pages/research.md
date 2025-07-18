@@ -4,9 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2 id="active">
+<!--<h2 id="active">
 Active Research
-</h2>
+</h2>-->
 
 ### Working Papers
 
@@ -29,11 +29,11 @@ Active Research
 
 "Bridges in Bangladesh" with [Alejandro Molnar][am] and [Forhad Shilpi][fs].
 
-<h2 id="pubs">
+<!--<h2 id="pubs">
 Publications
-</h2>
+</h2>-->
 
-### Peer-Reviewed Publications
+### Publications
 
 "[Public transport and urban structure](https://doi.org/10.1016/j.ecotra.2021.100232)" with [Leonardo J. Basso][ljb], and [Hugo E. Silva][hes]. *Economics of Transportation* 28 (2021): 100232. <a href="/files/research/transit-urban-structure.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
