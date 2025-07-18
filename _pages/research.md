@@ -83,11 +83,12 @@ Publications
   }
   
   .pdf-button {
-  border: none;
-  background: none;
-  font-size: 0.9em;
-  color: #08306b;
-  cursor: pointer;
+    border: none;
+    background: none;
+    font-size: 0.9em;
+    color: #08306b;
+    cursor: pointer;
+    padding: 0;
   }
   
   .abstract {
