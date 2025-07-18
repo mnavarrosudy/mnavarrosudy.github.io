@@ -4,10 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<!--<h2 id="active">
-Active Research
-</h2>-->
-
 ### Working Papers
 
 "Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" with 
@@ -28,6 +24,10 @@ Active Research
 "Optimal congestion pricing in road networks" with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl].
 
 "Bridges in Bangladesh" with [Alejandro Molnar][am] and [Forhad Shilpi][fs].
+
+<!--<h2 id="active">
+Active Research
+</h2>-->
 
 <!--<h2 id="pubs">
 Publications
