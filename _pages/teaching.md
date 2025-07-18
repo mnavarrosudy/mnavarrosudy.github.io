@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Cornell University
+**Cornell University**
 
 [AEM 2500] Environmental and Resource Economics
 
