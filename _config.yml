@@ -83,11 +83,11 @@ author:
   name             : "Matías Navarro"
   avatar           : "MatiasNavarro2021.jpg"
   bio              : "PhD student at Cornell University"
-  location         : "Ithaca, New York"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "min26@cornell.edu"
+  email            : 
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,26 +96,38 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mnavarrosudy"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "mnavarrosudy"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "mnavarrosudy"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  links            :
+    - label: "min26@cornell.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:min26@cornell.edu"
+    - label: "@mnavarrosudy"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mnavarrosudy"
+    - label: "mnavarrosudy"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/mnavarrosudy"
+    - label: "mnavarrosudy"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mnavarrosudy"
 
 # Reading Files
 include:
