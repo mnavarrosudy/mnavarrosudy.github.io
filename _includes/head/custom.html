@@ -35,38 +35,4 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
-<!-- Email copy functionality -->
-<script>
-function copyEmail(email) {
-  navigator.clipboard.writeText(email).then(function() {
-    // Show confirmation
-    const element = event.target.closest('a');
-    const originalHTML = element.innerHTML;
-    
-    element.innerHTML = '<i class="fas fa-fw fa-check" aria-hidden="true"></i> Copied!';
-    element.style.color = '#52adc8';
-    
-    setTimeout(() => {
-      element.innerHTML = originalHTML;
-      element.style.color = '';
-    }, 1500);
-  }).catch(function(err) {
-    // Fallback for older browsers
-    const textArea = document.createElement('textarea');
-    textArea.value = email;
-    document.body.appendChild(textArea);
-    textArea.select();
-    document.execCommand('copy');
-    document.body.removeChild(textArea);
-    
-    const element = event.target.closest('a');
-    const originalHTML = element.innerHTML;
-    element.innerHTML = '<i class="fas fa-fw fa-check" aria-hidden="true"></i> Copied!';
-    setTimeout(() => {
-      element.innerHTML = originalHTML;
-    }, 1500);
-  });
-}
-</script>
-
 <!-- end custom head snippets -->
