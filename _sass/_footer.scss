@@ -99,3 +99,8 @@
 .page__footer-copyright {
   font-size: $type-size-8 !important;
 }
+
+/* Hide Follow and Feed sections */
+.page__footer-follow {
+  display: none !important;
+}
