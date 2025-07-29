@@ -90,3 +90,12 @@
     }
   }
 }
+
+/* Test - compact footer */
+.page__footer {
+  margin-top: 2em !important; /* Just slightly smaller than 3em */
+}
+
+.page__footer-copyright {
+  font-size: $type-size-8 !important;
+}
