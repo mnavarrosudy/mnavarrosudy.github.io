@@ -78,10 +78,9 @@ social:
 #     tracking_id          :
 
 analytics:
-  provider                : "custom"
+  provider: "custom"
   custom:
-    location              : "_includes/ga-custom.html"
-
+    location: "_includes/ga-custom.html"
 
 # Site Author
 author:
