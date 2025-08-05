@@ -79,8 +79,8 @@ social:
 
 analytics:
   provider: "custom"
-  custom:
-    location: "_includes/ga-custom.html"
+  # custom:
+  #   location: "_includes/ga-custom.html"
 
 # Site Author
 author:
