@@ -6,8 +6,8 @@ author_profile: true
 
 ### Teaching Assistant at Cornell University
 
-- Introductory Microeconomics (undergraduate), Fall 2022
-<small><em>Led instruction of weekly review sessions</em></small>
+- Introductory Microeconomics (undergraduate), Fall 2022  
+    *Led instruction of weekly review sessions*  
 - Environmental and Resource Economics (undergraduate), Fall 2021
 
 ### Teaching Assistant at University of Texas at Austin
