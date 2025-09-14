@@ -20,6 +20,7 @@ author_profile: true
 
 - Highway Traffic Flow (graduate), Fall 2013
 - Advanced Traffic Modeling (graduate), Spring 2013
-- Transportation Economics (graduate), Fall 2012
+- Transportation Economics (graduate), Fall 2012  
+    <span style="font-size:80%;">Led instruction of review sessions</span>
 - Operations Research (undergraduate), Spring 2012 and Fall 2012  
     <span style="font-size:80%;">Led instruction of review sessions</span>
