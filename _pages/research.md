@@ -51,6 +51,8 @@ Publications
   </p>
 </div>
 
+[Research statement](/files/navarro_cv.pdf)
+
 <!-- ### Pre-Doctoral Work
 
 "[Impact of a loan-based public transport fare system on fare evasion: Experience of Transantiago, Santiago, Chile](https://doi.org/10.3141%2F2544-03)" with Alejandro Schmidt, Christopher Bucknell, [Juan Carlos Muñoz][jcm], and Carolina Simonetti. *Transportation Research Record* 2544, no. 1 (2016): 20-27.
@@ -65,7 +67,7 @@ Publications
 [gcs]: https://soa.utexas.edu/faculty/gian-claudia-sciara
 [ljb]: http://www.leonardojbasso.cl/index.html
 [hes]: https://sites.google.com/site/hugosilvam/
-[sl]: http://li.dyson.cornell.edu
+[sl]: https://shanjunli6.github.io
 [jch]: https://www.ing.uc.cl/academicos-e-investigadores/juan-carlos-herrera-maldonado/
 [jcm]: https://www.ing.uc.cl/en/academicos-e-investigadores/juan-carlos-munoz-abogabir/
 [arw]: https://www.andrewrwaxman.com
