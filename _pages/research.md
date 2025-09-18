@@ -22,6 +22,8 @@ author_profile: true
 
 ### Work in Progress
 
+"On the right route? Designing optimal public transit contracts" **(Job Market Paper)**.
+
 "Optimal congestion pricing in road networks" with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl].
 
 "Bridges in Bangladesh" with [Alejandro Molnar][am] and [Forhad Shilpi][fs].
