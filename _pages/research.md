@@ -51,7 +51,7 @@ Publications
   </p>
 </div>
 
-[Research statement](/files/navarro_cv.pdf)
+<!-- [Research statement](/files/navarro_cv.pdf) -->
 
 <!-- ### Pre-Doctoral Work
 
