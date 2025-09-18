@@ -14,7 +14,7 @@ sitemap:
 Welcome!
 </h2>
 
-I am a PhD student in Applied Economics and Management at Cornell University. My research focuses on questions in environmental and urban economics using tools from empirical industrial organization and public economics.
+I am a PhD student in Applied Economics and Management at Cornell University. My research focuses on questions in environmental and urban economics using tools from empirical industrial organization.
 
 I am on the job market in the 2025-2026 academic year.
 
