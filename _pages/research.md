@@ -6,7 +6,7 @@ author_profile: true
 
 ### Working Papers
 
-"Paying at the pump and the ballot box: Electoral penalties of motor fuel taxes" with 
+"Paying at the Pump and the Ballot Box: Electoral Penalties of Motor Fuel Taxes" with 
 [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. 
 <span class="inline-controls">
   <button onclick="toggleAbstract('abstract1', event)" class="abstract-button">[Abstract]</button>
@@ -22,9 +22,9 @@ author_profile: true
 
 ### Work in Progress
 
-"On the right route? Designing optimal public transit contracts" **(Job Market Paper)**.
+"On the Right Track? Designing Optimal Public Transit Contracts" **(Job Market Paper)**.
 
-"Optimal congestion pricing in road networks" with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl].
+"Optimal Congestion Pricing in Road Networks" with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl].
 
 "Bridges in Bangladesh" with [Alejandro Molnar][am] and [Forhad Shilpi][fs].
 
