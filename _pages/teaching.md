@@ -22,5 +22,4 @@ author_profile: true
 - Advanced Traffic Modeling (graduate), Spring 2013
 - Transportation Economics (graduate), Fall 2012  
     <span style="font-size:80%;">Led instruction of review sessions</span>
-- Operations Research (undergraduate), Spring 2012 and Fall 2012  
-    <span style="font-size:80%;">Led instruction of review sessions</span>
+- Operations Management (undergraduate), Spring 2012 and Fall 2012
