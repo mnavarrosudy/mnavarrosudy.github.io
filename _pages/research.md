@@ -6,7 +6,7 @@ author_profile: true
 
 ### Job Market Paper
 
-"On the Right Track? Designing Optimal Public Transit Contracts" **(Job Market Paper)**.
+"On the Right Track? Designing Optimal Public Transit Contracts"
 <span class="inline-controls">
   <button onclick="toggleAbstract('abstract1', event)" class="abstract-button">[Abstract]</button>
   <a href="/files/research/navarro_jmp.pdf" class="pdf-button">[PDF]</a>
