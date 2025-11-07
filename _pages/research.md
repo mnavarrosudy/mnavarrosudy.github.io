@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Working Papers
+### Job Market Paper
 
 "On the Right Track? Designing Optimal Public Transit Contracts" **(Job Market Paper)**.
 <span class="inline-controls">
@@ -19,6 +19,7 @@ Private transit provision faces two opposing market failures: market power, whic
   </p>
 </div>
 
+### Working Papers
 
 "Paying at the Pump and the Ballot Box: Electoral Penalties of Motor Fuel Taxes" with 
 [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. 
