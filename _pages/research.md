@@ -6,23 +6,35 @@ author_profile: true
 
 ### Working Papers
 
-"Paying at the Pump and the Ballot Box: Electoral Penalties of Motor Fuel Taxes" with 
-[Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. 
+"On the Right Track? Designing Optimal Public Transit Contracts" **(Job Market Paper)**.
 <span class="inline-controls">
   <button onclick="toggleAbstract('abstract1', event)" class="abstract-button">[Abstract]</button>
-  <a href="https://papers.ssrn.com/abstract=4999378" class="pdf-button">[PDF]</a>
+  <a href="/files/research/navarro_jmp.pdf" class="pdf-button">[PDF]</a>
   <!--<a href="https://papers.ssrn.com/abstract=4999378"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>-->
 </span>
 
 <div id="abstract1" class="abstract">
+  <p>
+Private transit provision faces two opposing market failures: market power, which leads firms to set high prices and underprovide quality, and uninternalized network effects that arise from fragmented service and lack of coordination across routes. Governments address these distortions through contracts that combine quality targets with route bundling. This paper studies how these instruments should be designed to maximize welfare. I exploit quasi-experimental variation from Santiago, Chile’s 2022 contract reform which imposed stricter quality targets and rebundled routes among private operators. Using high-frequency GPS data for 373 bus routes and an event-study difference-in-differences design, I find that stricter quality targets improve service regularity by 16 percent and increase ridership by 7.5 percent. I develop and estimate a structural model that endogenizes traveler mode and route choices, private operators’ service attribute decisions, and traffic congestion to evaluate alternative contract designs. The results show that welfare losses from monopoly pricing exceed coordination gains from single-operator networks, with optimal market structure involving four to five competing firms. The findings highlight that effective contract design must reconcile the efficiency gains from competition with the coordination benefits of network integration.
+  </p>
+</div>
+
+
+"Paying at the Pump and the Ballot Box: Electoral Penalties of Motor Fuel Taxes" with 
+[Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. 
+<span class="inline-controls">
+  <button onclick="toggleAbstract('abstract2', event)" class="abstract-button">[Abstract]</button>
+  <a href="https://papers.ssrn.com/abstract=4999378" class="pdf-button">[PDF]</a>
+  <!--<a href="https://papers.ssrn.com/abstract=4999378"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>-->
+</span>
+
+<div id="abstract2" class="abstract">
   <p>
     Perhaps the greatest challenge to addressing climate change comprehensively through government policy in the U.S. has been limited political feasibility. We investigate whether politicians are punished by voters for increasing motor fuel taxes by compiling a comprehensive dataset on state legislative election outcomes and gasoline taxes. Leveraging a difference-in-discontinuities research design, we estimate the effect of legislated gasoline tax changes on incumbent state legislators' subsequent electoral outcomes. For very close elections, we show how the incumbency advantage attenuates when gasoline tax increases have been legislated in the intervening legislative session. Specifically, we find a small, but economically and statistically meaningful decrease in the incumbency advantage of 1.3 to 1.9 percentage points for Republican and Democratic incumbents, respectively. This penalty represents 14-21% of the overall electoral advantage of incumbents in our sample, which highlights the relative importance of environmental and energy taxes in voter priorities.
   </p>
 </div>
 
 ### Work in Progress
-
-"On the Right Track? Designing Optimal Public Transit Contracts" **(Job Market Paper)**.
 
 "Optimal Congestion Pricing in Road Networks" with [Avralt-Od Purevjav][aop] and [Shanjun Li][sl].
 
