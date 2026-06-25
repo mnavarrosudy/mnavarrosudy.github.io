@@ -25,10 +25,10 @@ Private transit provision faces two opposing market failures: market power, whic
 [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. 
 <span class="inline-controls">
   <button onclick="toggleAbstract('abstract2', event)" class="abstract-button">[Abstract]</button>
-  <a href="https://papers.ssrn.com/abstract=4999378" class="pdf-button">[PDF]</a>
+  <a href="/files/research/gas-tax.pdf" class="pdf-button">[PDF]</a>
   <!--<a href="https://papers.ssrn.com/abstract=4999378"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>-->
 </span>
-
+du -sh .git
 <div id="abstract2" class="abstract">
   <p>
     Perhaps the greatest challenge to addressing climate change comprehensively through government policy in the U.S. has been limited political feasibility. We investigate whether politicians are punished by voters for increasing motor fuel taxes by compiling a comprehensive dataset on state legislative election outcomes and gasoline taxes. Leveraging a difference-in-discontinuities research design, we estimate the effect of legislated gasoline tax changes on incumbent state legislators' subsequent electoral outcomes. For very close elections, we show how the incumbency advantage attenuates when gasoline tax increases have been legislated in the intervening legislative session. Specifically, we find a small, but economically and statistically meaningful decrease in the incumbency advantage of 1.3 to 1.9 percentage points for Republican and Democratic incumbents, respectively. This penalty represents 14-21% of the overall electoral advantage of incumbents in our sample, which highlights the relative importance of environmental and energy taxes in voter priorities.
