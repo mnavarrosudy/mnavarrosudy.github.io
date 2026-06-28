@@ -53,7 +53,7 @@ Publications
 
 "[Public Transport and Urban Structure](https://doi.org/10.1016/j.ecotra.2021.100232)" with [Leonardo J. Basso][ljb], and [Hugo E. Silva][hes]. *Economics of Transportation* 28 (2021): 100232. 
 <span class="inline-controls">
-  <button onclick="toggleAbstract('abstract2', event)" class="abstract-button">[Abstract]</button>
+  <button onclick="toggleAbstract('abstract3', event)" class="abstract-button">[Abstract]</button>
   <a href="/files/research/transit-urban-structure.pdf" class="pdf-button">[PDF]</a>
   <!--<a href="/files/research/transit-urban-structure.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>-->
 </span>
