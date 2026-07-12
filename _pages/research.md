@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Job Market Paper
+### Working Papers
 
 "On the Right Track? Designing Optimal Public Transit Contracts"
 <span class="inline-controls">
@@ -18,8 +18,6 @@ author_profile: true
 Private transit provision faces two opposing market failures: market power, which leads firms to set high prices and underprovide quality, and uninternalized network effects that arise from fragmented service and lack of coordination across routes. Governments address these distortions through contracts that combine quality targets with route bundling. This paper studies how these instruments should be designed to maximize welfare. I exploit quasi-experimental variation from Santiago, Chile’s 2022 contract reform which imposed stricter quality targets and rebundled routes among private operators. Using high-frequency GPS data for 373 bus routes and an event-study difference-in-differences design, I find that stricter quality targets improve service regularity by 16 percent and increase ridership by 7.5 percent. I develop and estimate a structural model that endogenizes traveler mode and route choices, private operators’ service attribute decisions, and traffic congestion to evaluate alternative contract designs. The results show that welfare losses from monopoly pricing exceed coordination gains from single-operator networks, with optimal market structure involving four to five competing firms. The findings highlight that effective contract design must reconcile the efficiency gains from competition with the coordination benefits of network integration.
   </p>
 </div>
-
-### Working Papers
 
 "Paying at the Pump and the Ballot Box: Electoral Penalties of Motor Fuel Taxes" with 
 [Gian-Claudia Sciara][gcs] and [Andrew Waxman][arw]. 
